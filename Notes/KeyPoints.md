@@ -1,2 +1,3 @@
 - To create new users for power apps you can use Azure Active Directory(AAD)
 - To Assign environment maker role to user you use PowerPlatform Admin Center
+- Model-driven apps require a CDS(Common Data Service database)
