@@ -1,3 +1,5 @@
 - To create new users for power apps you can use Azure Active Directory(AAD)
 - To Assign environment maker role to user you use PowerPlatform Admin Center
 - Model-driven apps require a CDS(Common Data Service database)
+- You can add upto 1000 topics in chatbot
+- After 60min or if channel has 100 turns sesstion will expire for chatbot
