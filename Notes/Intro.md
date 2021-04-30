@@ -9,5 +9,6 @@
 - Connectors are bridges that allow you to send information from your data source to your app or workflow and back.
 
 ### Dataverse 
-- Microsoft Dataverse is a cloud-based data storage which allows you to leverage the security and connectivity of Microsoft programs.
+- Microsoft Dataverse is a cloud-based data storage that allows you to leverage the security and connectivity of Microsoft programs.
 - Using the Dataverse, you can break your data into various environments to better manage and secure important information.
+- Under Power Apps
